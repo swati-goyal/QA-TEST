@@ -1,0 +1,8 @@
+selenium
+selenium-version=3.6.0
+unittest2
+unittest2-version=1.1.0
+chromedriver=2.33
+firefox-version=47.0.2
+html-testRunner=1.1.1
+ChromeBrowser=60+

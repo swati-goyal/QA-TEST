@@ -1,0 +1,24 @@
+{
+"drivers-path": {
+  "chrome":"drivers/chromedriver.exe",
+  "firefox":"",
+  "headless":""
+
+},
+
+
+"website-data": {
+"url": "http://adjiva.com/qa-test/",
+"title": "//*[@id='contact_form']/fieldset/legend/center/h2/b",
+"f-name": "//*[@id='contact_form']/fieldset/div[1]/div/div/input",
+"l-name": "//*[@id='contact_form']/fieldset/div[2]/div/div/input",
+"dept-name": "//*[@id='contact_form']/fieldset/div[3]/div/div/select",
+"username": "//*[@id='contact_form']/fieldset/div[4]/div/div/input",
+"password": "//*[@id='contact_form']/fieldset/div[5]/div/div/input",
+"confirm-pass": "//*[@id='contact_form']/fieldset/div[6]/div/div/input",
+"email": "//*[@id='contact_form']/fieldset/div[7]/div/div/input",
+"mobile": "//*[@id='contact_form']/fieldset/div[8]/div/div/input",
+"submit": "//*[@id='contact_form']/fieldset/div[10]/div/button"
+}
+
+}
